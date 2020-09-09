@@ -1,0 +1,12 @@
+# This is the pip requirements file for running face-smile lock program.
+#insall those dependencies by entering: 
+#  pip install -r requirements.txt
+# must be installed correctly before running
+
+opencv-python
+dlib
+numpy
+scipy
+imutils
+face_recognition
+
